@@ -1,0 +1,18 @@
+.logo-analuiza img {
+    height: 250px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+.logo-analuiza {
+    padding: 30px;
+    color: #8F8C71;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .logo-analuiza img {
+        height: 150px;
+        width: 250px;
+    }
+}
